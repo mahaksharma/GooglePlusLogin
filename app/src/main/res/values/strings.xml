@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GooglePlusLogin</string>
+    <string name="signed_in_fmt">Signed in as : %s</string>
+    <string name="signing_in">Signing in...</string>
+    <string name="signed_out">Signed out</string>
+    <string name="signed_in_error">"Error: please check logs."</string>
+    <string name="error_null_person">
+        Error: Plus.PeopleApi.getCurrentPerson returned null. Ensure that the Google+ API is
+        enabled for your project, you have a properly configured google_services.json file
+        and that your device has an internet connection.
+    </string>
+
+    <string name="play_services_error_fmt">Google Play Services error: %i</string>
+
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+
+    <string name="desc_user_image">User Profile Image</string>
+    <string name="sample_deep_link_url">https://plus.google.com/u/0/+DelaroyStudios/about</string>
+    <string name="sample_deep_link_id">https://plus.google.com/u/0/+DelaroyStudios/about</string>
+
+</resources>
